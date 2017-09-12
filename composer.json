@@ -1,0 +1,16 @@
+{
+    "name": "vvotinov/fix_challenge",
+    "description": "Fix challenge test",
+    "type": "project",
+    "require": {
+        "fzaninotto/faker": "^1.7"
+    },
+    "license": "free",
+    "authors": [
+        {
+            "name": "Vladimir Votinov",
+            "email": "vladimir.votinov@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
