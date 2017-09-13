@@ -1,6 +1,11 @@
 ### Реализация поведения посетителей ночного клуба
 
-Для запуска достаточно выполнить следующую команду
+1. Развертывание. Устранение зависимостей
 
-`php index.php`
+        composer install --prefer-dist --ignore-platform-reqs
+                
+        php composer.phar install --prefer-dist --ignore-platform-reqs
+2. Запуск.
+
+        php index.php
 
